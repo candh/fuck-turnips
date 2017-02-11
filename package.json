@@ -1,0 +1,14 @@
+{
+  "name": "fuck-turnips",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "candh",
+  "license": "ISC",
+  "dependencies": {
+    "casper": "^0.1.1"
+  }
+}
